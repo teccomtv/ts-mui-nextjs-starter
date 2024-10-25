@@ -12,6 +12,13 @@
             },
             {
                 "type": "Link",
+                "label": "TVK",
+                "url": "http://vip.local.teccomtv.com:8080/nl.m3u8?id=TVK",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "About",
                 "url": "/about",
                 "underline": "hover"
